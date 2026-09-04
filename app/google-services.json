@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "657270877849",
+    "project_id": "carserviceapp-maxim",
+    "storage_bucket": "carserviceapp-maxim.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:657270877849:android:7ecce828bd71cb6a3e9208",
+        "android_client_info": {
+          "package_name": "com.example.carserviceapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVtU9NF2aDGAvY5DA2ZNzX85H3uJdeEds"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
