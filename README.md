@@ -88,7 +88,7 @@
 <p>
   <img src="screenshots/add_car.png" width="200"/>
   <img src="screenshots/car_detail_1.png" width="200"/>
-  <img src="<img width="125" height="279" alt="image" src="https://github.com/user-attachments/assets/f5eaec64-78a3-406b-ba5b-3796eb388b73" />
+  <img src="<img src="screenshots/settings.png" width="200"/>
 " width="200"/>
 </p>
 
