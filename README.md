@@ -111,5 +111,5 @@
 
 ## Репозитории
 
-- Клиентская часть (Android): https://github.com/CloudVHS/CarService-client-
-- Серверная часть (Ktor): https://github.com/CloudVHS/CarService-server-
+- Клиентская часть (Android): https://github.com/Frozen-Echo/CarService-client
+- Серверная часть (Ktor): https://github.com/Frozen-Echo/CarService-server
