@@ -89,7 +89,7 @@
   <img src="screenshots/add_car.png" width="200"/>
   <img src="screenshots/car_detail_1.png" width="200"/>
   <img src="screenshots/settings.png" width="200"/>
-" width="200"/>
+
 </p>
 
 
